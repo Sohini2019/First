@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="130" started-at="2018-09-13T14:46:25 IST" finished-at="2018-09-13T14:46:25 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="130" started-at="2018-09-13T14:46:25 IST" finished-at="2018-09-13T14:46:25 IST">
+      <class name="qaclickacademy.APITest">
+        <test-method status="PASS" signature="API1()[pri:0, instance:qaclickacademy.APITest@59f99ea]" name="API1" duration-ms="21" started-at="2018-09-13T14:46:25 IST" finished-at="2018-09-13T14:46:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- API1 -->
+        <test-method status="PASS" signature="API2()[pri:0, instance:qaclickacademy.APITest@59f99ea]" name="API2" duration-ms="0" started-at="2018-09-13T14:46:25 IST" finished-at="2018-09-13T14:46:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- API2 -->
+      </class> <!-- qaclickacademy.APITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

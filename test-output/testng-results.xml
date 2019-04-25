@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="252" started-at="2018-12-01T06:36:45Z" finished-at="2018-12-01T06:36:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="252" started-at="2018-12-01T06:36:45Z" finished-at="2018-12-01T06:36:45Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="Appium1()[pri:0, instance:qaclickacademy.AppiumTest@2d82408]" name="Appium1" duration-ms="42" started-at="2018-12-01T06:36:45Z" finished-at="2018-12-01T06:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appium1 -->
+        <test-method status="PASS" signature="Appium2()[pri:0, instance:qaclickacademy.AppiumTest@2d82408]" name="Appium2" duration-ms="7" started-at="2018-12-01T06:36:45Z" finished-at="2018-12-01T06:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appium2 -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.APITest">
+        <test-method status="PASS" signature="API1()[pri:0, instance:qaclickacademy.APITest@3dd818e8]" name="API1" duration-ms="3" started-at="2018-12-01T06:36:45Z" finished-at="2018-12-01T06:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- API1 -->
+        <test-method status="PASS" signature="API2()[pri:0, instance:qaclickacademy.APITest@3dd818e8]" name="API2" duration-ms="3" started-at="2018-12-01T06:36:45Z" finished-at="2018-12-01T06:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- API2 -->
+      </class> <!-- qaclickacademy.APITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="Selenium1()[pri:0, instance:qaclickacademy.SeleniumTest@4cb40e3b]" name="Selenium1" duration-ms="4" started-at="2018-12-01T06:36:45Z" finished-at="2018-12-01T06:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selenium1 -->
+        <test-method status="PASS" signature="Selenium2()[pri:0, instance:qaclickacademy.SeleniumTest@4cb40e3b]" name="Selenium2" duration-ms="9" started-at="2018-12-01T06:36:45Z" finished-at="2018-12-01T06:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selenium2 -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
